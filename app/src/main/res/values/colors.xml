@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base Canvas & Surfaces -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#FBFBFC</color>
+    <color name="bg_gradient_start">#FBFBFC</color>
+    <color name="bg_gradient_end">#EDE8F5</color>
+    <color name="surface_card">#FFFFFF</color>
+    <color name="surface_card_subtle">#F8FAFC</color>
+
+    <!-- Brand Palette -->
+    <color name="brand_primary">#5E22E2</color>
+    <color name="brand_dark">#3B1499</color>
+    <color name="primary_tint">#EDE8F5</color>
+
+    <!-- Soft Pastel Card Tints -->
+    <color name="card_tint_lavender">#EDE8F5</color>
+    <color name="card_tint_blue">#E0F2FE</color>
+    <color name="card_tint_mint">#D1FADF</color>
+    <color name="card_tint_peach">#FEF08A</color>
+    <color name="card_tint_rose">#FFE4E6</color>
+
+    <!-- Outlines & Dividers -->
+    <color name="outline">#E5E7EB</color>
+    <color name="input_outline">#E5E7EB</color>
+    <color name="input_outline_focused">#5E22E2</color>
+
+    <!-- Typography -->
+    <color name="text_primary">#121417</color>
+    <color name="text_secondary">#6B7280</color>
+    <color name="text_tertiary">#9CA3AF</color>
+
+    <!-- Status Tints -->
+    <color name="success">#15803D</color>
+    <color name="success_bg">#D1FADF</color>
+    <color name="warning">#A16207</color>
+    <color name="warning_bg">#FEF08A</color>
+    <color name="error">#DC2626</color>
+    <color name="error_bg">#FEE2E2</color>
+
+    <!-- Bottom Navigation -->
+    <color name="nav_bg">#FFFFFF</color>
+    <color name="nav_active_pill">#EDE8F5</color>
+    <color name="nav_active_icon">#5E22E2</color>
+    <color name="nav_inactive">#6B7280</color>
+
+    <!-- Legacy Color Aliases (Compatibility) -->
+    <color name="purple_primary">#5E22E2</color>
+    <color name="purple_dark">#3B1499</color>
+    <color name="purple_accent">#7C3AED</color>
+    <color name="purple_background">#FBFBFC</color>
+</resources>

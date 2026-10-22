@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Student Connect</string>
+    <string name="remove">Remove</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_discover">Discover</string>
+    <string name="nav_requests">Requests</string>
+    <string name="nav_profile">Profile</string>
+    <string name="search_hint">Search courses or tutors&#8230;</string>
+    <string name="filter">Filter</string>
+</resources>
